@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Instagram](https://img.icons8.com/?size=100&id=32292&format=png&color=000000)](https://www.instagram.com/raoyat/?hl=en)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <a href="https://www.instagram.com/raoyat/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  </a>
+</p>
