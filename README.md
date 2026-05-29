@@ -21,4 +21,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/raoyat/?hl=en">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" />
   </a>
+  <a href="https://www.linkedin.com/in/mahdinazernejadstolidev">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
 </p>
