@@ -1,5 +1,4 @@
-## Hello!
-## Welcome to my world of code! 01010010 01100001 01101111 01111001 01100001 01110100👋
+## Hello!<br/>Welcome to my world of code! 01010010 01100001 01101111 01111001 01100001 01110100👋
 
 <!--
 **GrayStolid/GrayStolid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
